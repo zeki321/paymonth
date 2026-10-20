@@ -1,4 +1,4 @@
-# PayMonth — BUNIVERS
+# PayMonth
 
 Application de gestion de fiches de paie.
 
